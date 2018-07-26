@@ -12,7 +12,7 @@ Make file:
 
 Run:
 
-%>./reduce <Array size> <number of iterations> <Number of blocks> <Number of threads per block> <Number of blocks for Vector only codes>
+./reduce (Array_size) (number of iterations) (Number of blocks) (Number of threads per block) (Number of blocks for Vector only codes)
   
 example:
 %> ./reduce 100000 1 128 512 1024
